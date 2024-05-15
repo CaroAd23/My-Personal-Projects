@@ -5,7 +5,7 @@
  * - Si le pasamos "Hola mundo" nos retornaría "odnum aloH"
  */
 
-let texto=["hola mundo"];
+
 
 
 
